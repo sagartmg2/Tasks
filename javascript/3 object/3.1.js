@@ -6,6 +6,9 @@ obj = {
 }
 
 console.log(obj.1)
+/* 
+    output: "one"
+*/
 
 /* 
     we can get value of an object using key 
@@ -17,8 +20,4 @@ console.log(obj.1)
     BUT 
 
     what to do when our key is numeric
-*/
-/* 
-    output: "one"
-
 */

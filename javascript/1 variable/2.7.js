@@ -1,13 +1,12 @@
 
-// console.log(' double quote = ""  ')
-// console.log(` double quote = ""  `)
-console.log(" double quote = \"\"  \n new line ")
+console.log(" double quote = """)
 
 /* 
 
     output: double quote = ""
 
 */
+
 /* 
     can use template literal or escape character
 */

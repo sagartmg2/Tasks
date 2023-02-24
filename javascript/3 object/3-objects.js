@@ -7,7 +7,7 @@ let person = {
     website: "john@doe.com"
 }
 
-console.log("name is"); // output name is john doe
+console.log("name is"); // output:  name is john doe
 
 
 /* 

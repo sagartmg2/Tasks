@@ -241,5 +241,4 @@ let users = [
     output 
     <name> lives in <street> , <city>
 
-
 */

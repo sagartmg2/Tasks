@@ -5,9 +5,11 @@ console.log(country);  // what will this print or will it casue an error
 
 
 let state = "Province One"
-let state = "Province Two"
+let state = "Province Two" // change in this line
 
-console.log(state);
+/* the above line throws error */
+
+console.log(state); // should print Province Two
 
 /*
     change in line 8 

@@ -18,12 +18,12 @@
 let country1 = "nepal"
 let country2 = country1
 country2 = "Indai"
-console.log(country1, country2);
+console.log(country1, country2);  // the value of country1 remains the same
 
 let num1 = 1;
 let num2 = num1;
 num2 = 3;
-console.log(num1, num2);
+console.log(num1, num2); // the value of num1 remains the same
 
 
 let person1 = {
@@ -40,7 +40,6 @@ person2.country = "Nepal"
 
 /* 
     now all the values of person1 is copied to person 2
-    
 */
 
 
