@@ -1,11 +1,12 @@
 
 
+console.log("unwanted buggy code")
 console.log("Hello World!")
-// console.log("unwanted buggy code")
 
 /* 
-    ctr + /
-    shift + alt + a 
+    COMMENTS
+    ctr + /                line comment
+    shift + alt + a        block comment
 */
 
 
