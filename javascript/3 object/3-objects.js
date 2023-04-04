@@ -2,7 +2,7 @@
 
 let person = {
     first_name: "john",
-    last_name: "john",
+    last_name: "doe",
     age,
     website: "john@doe.com"
 }
