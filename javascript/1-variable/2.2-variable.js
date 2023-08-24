@@ -1,8 +1,8 @@
 
-let first_name = "John";
+let firstName = "John";
 
 
-console.log("name is " + first_name + last_name)
+console.log("name is " + firstName + lastName)
 console.log("and age is " + age)
 
 /* 

@@ -13,7 +13,7 @@ console.log("Hello World!")
 
 /* 
 
-    the buggy code should not be printed.
+    the buggy code SHOULD NOT be printed.
 
     output:
     Hello World!
