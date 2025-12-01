@@ -24,7 +24,6 @@ let state = "Province Two" // change in this line
 console.log(state); // should print Province Two
 
 /*
-    change in line 8 
     expected output: Province Two
 
 */

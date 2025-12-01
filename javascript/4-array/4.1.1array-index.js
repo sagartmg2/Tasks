@@ -17,3 +17,5 @@ console.log(members[6]);  // Bikash
 members[6] =  "Bishal"  // we are changing the  6th index value of members array 
 
 console.log(members[6]); //Bishal
+
+console.log(members); // TODO: what will this print  ?

@@ -12,7 +12,7 @@ let fullName = firstName + " " + middleName
 /* change the value of middleName to Bahadur */
 
 
-console.log(fullName)  // OUTPUT: Hari Bahadur
+console.log(fullName)  // EXPECTED-OUTPUT: Hari Bahadur
 
 
 

@@ -10,6 +10,7 @@ console.log(colorNames);
 
 
 
+// similarly 
 
 let students = [
     {

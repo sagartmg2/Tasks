@@ -16,7 +16,7 @@ let colorNames = ["white", "red", "blue", "green", "black"]
 */
 
 console.log(colorNames[1]);  // red // cause the index of red is 1 
-console.log(colorNames[3]);  // green // cause the index of red is 3 
+console.log(colorNames[3]);  // green // cause the index of green is 3 
 
 
 

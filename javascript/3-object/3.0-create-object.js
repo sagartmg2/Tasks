@@ -9,7 +9,9 @@ let color = {
         create an object containing information our your laptop having  keys/attributes   brand, price and buildYear
  
  */
-let myLaptop  // CODE-HERE
+let myLaptop ;
+
+// CODE-HERE
 
 
 console.log(myLaptop)

@@ -10,8 +10,6 @@ let colorNames = ["white", "red", "blue", "green", "black"]
     in that case, 
     we can use objects within arrays
 
-    
-
 */
 
 let colors = [
@@ -19,23 +17,20 @@ let colors = [
     { name: "red", hex: "#FF0000", rgb: "rgb(255, 0, 0)" },
     { name: "blue", hex: "#0000FF", rgb: "rgb(0, 0, 255)" },
     { name: "green", hex: "#00FF00", rgb: "rgb(0, 255, 0)" },
-    { name: "black", hex: "#000000", rgb: "rgb(0, 0, 0)" }
+    { name: "back", hex: "#000000", rgb: "rgb(0, 0, 0)" }
 ];
 
 /*  
     And they have indexes too.   
     NOTE: each element of an array always have some index
-
 */
 
-const colorsWithIndex = [
+let colorsWithIndex = [
     { name: "white", hex: "#FFFFFF", rgb: "rgb(255, 255, 255)", arrayIndex: 0 },
     { name: "red", hex: "#FF0000", rgb: "rgb(255, 0, 0)", arrayIndex: 1 },
     { name: "blue", hex: "#0000FF", rgb: "rgb(0, 0, 255)", arrayIndex: 2 },
     { name: "green", hex: "#00FF00", rgb: "rgb(0, 255, 0)", arrayIndex: 3 },
-    { name: "black", hex: "#000000", rgb: "rgb(0, 0, 0)", arrayIndex: 4 }
+    { name: "back", hex: "#000000", rgb: "rgb(0, 0, 0)", arrayIndex: 4 }
 ];
 
 console.log(colors);
-
-

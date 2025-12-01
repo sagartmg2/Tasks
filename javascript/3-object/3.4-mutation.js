@@ -2,7 +2,6 @@ let person = {
     firstName: "Hari",
     lastName: "Kumar",
     country: "India"
-
 }
 
 /* 
@@ -13,7 +12,7 @@ let person = {
 
 
 /* 
-        CODE HERE
+        CODE HERE .
 */
 
 

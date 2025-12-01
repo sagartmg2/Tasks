@@ -7,17 +7,19 @@ let person = {
     website: "https://www.johndoe.com"
 }
 
-let filedToRetrive = "website"
+let fieldToRetrive = "website"
 
 /* 
 
-    using  filedToRetrive variable, access the value of person 
+    using  fieldToRetrive variable, access the value of person object
 
-        if filedToRetrive is first_name, OUTPUT  should be john
-        if filedToRetrive is website, OUTPUT  should be https://www.johndoe.com
+        if fieldToRetrive is first_name, OUTPUT  should be john
+        if fieldToRetrive is website, OUTPUT  should be https://www.johndoe.com
 
 */
 
+console.log(peron.fieldToRetrive) //  what value does this print ??
+console.log(perons.website) // https://www.johndoe.com       // THIS IS NOT WHAT I AM EXPECTING YOU TO WRITE
 
 
-console.log(person)  //TODO: CHANGE THIS LInE OF CODE
+console.log(peron.fieldToRetrive)  // TODO: CHANGE THIS LInE OF CODE           // EXPECTED-OUTPUT:  https://www.johndoe.com

@@ -16,7 +16,7 @@ console.log(`hex value of color ${color.name} is ${color.hexValue}`) // hex valu
 
 
 
-// similary print the value of person below
+// similary, print the value of person below
 
 let person = {
     first_name: "john",
@@ -25,6 +25,6 @@ let person = {
     website: "john@doe.com"
 }
 
-console.log("full name  is"); // output:  full name is john doe
+console.log("full name  is"); // expected-output:  full name is john doe
 
 
