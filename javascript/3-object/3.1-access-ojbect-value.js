@@ -25,6 +25,6 @@ let person = {
     website: "john@doe.com"
 }
 
-console.log("full name  is"); // expected-output:  full name is john doe
+console.log("full name  is"); // e/xpected-output:  full name is john doe
 
 
