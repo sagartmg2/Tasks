@@ -29,3 +29,15 @@
 
 
 */
+
+
+/* 
+    Additionally create a function,
+    so that we can calculate for other numbers as well
+
+
+    printMulitplication(8,1,10) // should print from 1 to 10 for number 8
+    printMulitplication(10,10,20)
+    printMulitplication(12,5,15) // should print from 5 to 15 for number 12
+
+*/
